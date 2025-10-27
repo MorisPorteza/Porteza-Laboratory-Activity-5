@@ -96,17 +96,6 @@ public class TeacherStudentAssignment {
 
 // Submitted by: Porteza, Moris L. (BSCS-2D)
 
-// AI Prompt:
-// You are a junior Java developer for BeanBrew Coffee Shop, a café that wants to automate its customer rewards system.
-// Every customer earns points for every purchase. When a customer reaches 100 points, they can redeem a free drink. 
-// The shop also wants to keep track of how many customers have registered in the system.
-// I will be giving six instructions one at a time throughout our conversation.
-// Carefully follow each one and gradually build the program step by step as new features are introduced.
-// The project should consist of two Java files: Customer.java and CoffeeShop.java.
-// Ensure that the code runs and compiles correctly after every update.
-// After completing each step, include a clear explanation of what was added and which Java concepts were applied.
-// Keep your explanations easy to follow and beginner-friendly, as if you’re teaching the basics of Java OOP.
-
 // AI Model: GPT-5 (ChatGPT)
 
 // Transaction ID: https://chatgpt.com/share/68ff6de8-5b28-8013-989c-42c3a579ae2b
